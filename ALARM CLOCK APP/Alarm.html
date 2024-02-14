@@ -1,0 +1,45 @@
+﻿<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alarm Clock</title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <input type="time" id="alarm-time">
+    <button onclick="setAlarm()">Set Alarm</button>
+
+    <script>
+        function setAlarm() {
+            const alarmTimeInput = document.getElementById('alarm-time');
+            const alarmTime = alarmTimeInput.value;
+            console.log("alarmTime", alarmTime)
+            if (alarmTime === "") {
+                alert("Please select a valid time for the alarm.");
+                return;
+            }
+
+            const currentTime = new Date();
+            const alarmDateTime = new Date();
+            const [hours, minutes] = alarmTime.split(":");
+            alarmDateTime.setHours(hours);
+            alarmDateTime.setMinutes(minutes);
+            alarmDateTime.setSeconds(0);
+
+            if (alarmDateTime <= currentTime) {
+                alarmDateTime.setDate(alarmDateTime.getDate() + 1); // Set alarm for next day if selected time has already passed
+            }
+
+            const timeUntilAlarm = alarmDateTime - currentTime;
+            const timeUntilAlarmInSeconds = timeUntilAlarm / 1000;
+
+            setTimeout(function () {
+                alert("Alarm! It's " + alarmTime);
+            }, timeUntilAlarmInSeconds * 1000);
+        }
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\ALARM CLOCK APP.dll.config
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\ALARM CLOCK APP.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\ALARM CLOCK APP.pdb
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\csc.exe
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\csc.exe.config
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\csc.rsp
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\csi.exe
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\csi.exe.config
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\csi.rsp
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.AppContext.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Console.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.IO.Compression.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Net.Http.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.ValueTuple.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\vbc.exe
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\vbc.exe.config
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\vbc.rsp
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\obj\Debug\ALARM CLOCK APP.csproj.AssemblyReference.cache
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\obj\Debug\ALARM CLOCK APP.csproj.CoreCompileInputs.cache
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\obj\Debug\ALARM CLOCK APP.csproj.CopyComplete
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\obj\Debug\ALARM CLOCK APP.dll
+C:\Users\vishal sivanath\source\repos\ALARM CLOCK APP\ALARM CLOCK APP\obj\Debug\ALARM CLOCK APP.pdb

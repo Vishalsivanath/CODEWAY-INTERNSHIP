@@ -1,0 +1,32 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.alarm-settings {
+    margin-top: 20px;
+}
+
+#alarm-list {
+    margin-top: 20px;
+}
+
+.alarm-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+    .alarm-item button {
+        padding: 5px 10px;
+    }
